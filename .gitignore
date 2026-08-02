@@ -1,0 +1,65 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Python cache
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# ==========================
+# Operating System
+# ==========================
+Thumbs.db
+.DS_Store
+
+# ==========================
+# Build files
+# ==========================
+build/
+dist/
+
+# ==========================
+# GeoShield backups
+# ==========================
+backups/
+
+# Temporary files
+*.tmp
+
+# ==========================
+# Large project data (DO NOT PUSH)
+# ==========================
+Practical data/
+outputs/
+database/*.db
+
+# GIS & Remote Sensing datasets
+*.tif
+*.tiff
+*.zip
+*.shp
+*.dbf
+*.shx
+*.sbn
+*.sbx
+*.ovr
+*.aux.xml

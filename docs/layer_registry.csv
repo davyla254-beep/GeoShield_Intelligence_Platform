@@ -1,0 +1,4 @@
+Layer,Status,Data_Source,Category
+County Boundaries,Active,Kenya Counties,GIS
+Drought,Active,Earth Engine + AI,Hazard
+Rainfall,Active,CHIRPS,Environment

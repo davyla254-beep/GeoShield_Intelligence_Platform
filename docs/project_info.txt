@@ -1,0 +1,16 @@
+
+Project Name: GeoShield
+
+Version: 0.5
+
+Project Type:
+National Geospatial Intelligence Platform
+
+Current Module:
+Dashboard Development
+
+Country:
+Kenya
+
+Status:
+Active Development

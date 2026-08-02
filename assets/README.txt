@@ -1,0 +1,1 @@
+Store logos, icons, map styles and branding assets here.

@@ -1,0 +1,11 @@
+
+streamlit
+pandas
+geopandas
+earthengine-api
+geemap
+folium
+plotly
+numpy
+scikit-learn
+matplotlib

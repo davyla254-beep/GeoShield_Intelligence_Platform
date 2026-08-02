@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nairobi Fire Station",
+        "county": "Nairobi",
+        "engines": 6,
+        "status": "Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8219, -1.2921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiambu Fire Station",
+        "county": "Kiambu",
+        "engines": 3,
+        "status": "Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.8356, -1.1714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mombasa Fire Station",
+        "county": "Mombasa",
+        "engines": 4,
+        "status": "Available"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.6682, -4.0435]
+      }
+    }
+  ]
+}
